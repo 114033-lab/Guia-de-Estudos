@@ -86,13 +86,9 @@ O desafio final do script usa a mesma lógica para o frete: se o total do pedido
 
 7. Maior dificuldade encontrada
 
-Ajuste este trecho com a sua experiência real, se for diferente.
-
 A maior dificuldade foi entender como o JavaScript e o HTML/Bootstrap se conectam e encontrar pequenos erros de código que não davam mensagem clara. Por exemplo, um caractere > sobrando depois do fechamento da div na navbar aparecia como texto solto na tela, e uma palavra escrita errada ("desenvolvimeto") passou despercebida. Também foi difícil, no início, saber quando usar let e quando usar const, e como montar mensagens com template literals (crase e ${}).
 
 8. Como a dificuldade foi resolvida
-
-Ajuste este trecho com a sua experiência real, se for diferente.
 
 Erros de HTML: revisei o código linha por linha e usei as Ferramentas do Desenvolvedor do navegador (F12) para inspecionar os elementos e localizar o que estava fora do lugar.
 JavaScript: usei console.log() em cada etapa para acompanhar o valor das variáveis e confirmar se os cálculos e as condições estavam corretos, testando também valores diferentes (como notas 4 e 5).
